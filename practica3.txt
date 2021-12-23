@@ -1,3 +1,4 @@
 Practica 3 de archivo txt.
-Edicion del archivo numero1
+Edicion del archivo numero2
+
 
