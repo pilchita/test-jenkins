@@ -1,5 +1,7 @@
 Practica 3 de archivo txt.
-Edicion del archivo numero3
+Edicion del archivo v0.3
+
+
 
 
 
