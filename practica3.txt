@@ -1,6 +1,4 @@
-Practica 3 de archivo txt.
-Edicion v0.3
-Edicion del archivo numero3
-
+Edicion v0.6
+Edicion del archivo numero6
 
 
